@@ -1,0 +1,1 @@
+A basic text editor built using swing in java
